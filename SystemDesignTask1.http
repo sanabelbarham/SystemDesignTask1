@@ -1,0 +1,6 @@
+@SystemDesignTask1_HostAddress = http://localhost:5246
+
+GET {{SystemDesignTask1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "SystemDesignTask1.Controllers.TaskController",
+    "Method": "GetRequest",
+    "RelativePath": "api/Task",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
